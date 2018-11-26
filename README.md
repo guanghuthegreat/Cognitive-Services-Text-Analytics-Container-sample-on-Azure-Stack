@@ -1,0 +1,1 @@
+# Cognitive-Services-Text-Analytics-Container-sample-on-Azure-Stack
